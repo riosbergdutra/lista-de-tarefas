@@ -32,16 +32,16 @@
     margin-right: 1rem;
   }
   
-  .Adicionar-lista{
+  .adicionar-lista {
     margin-top: 2rem;
   }
   
-  .Adicionar-lista input[type="text"] {
+  .adicionar-lista input[type="text"] {
     padding: 0.5rem;
     width: 70%;
   }
   
-  .Adicionar-lista button {
+  .adicionar-lista button {
     padding: 0.5rem 1rem;
     background-color: #3498db;
     color: #fff;
